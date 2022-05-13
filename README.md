@@ -1,2 +1,2 @@
-# wypi
-Lists the amount of 727's in a certain amount of pi.
+# WYPI
+#### This simple program lists how much "727" occurs in a user-input amount of pi.
